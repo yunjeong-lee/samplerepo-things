@@ -5,3 +5,4 @@ square
 triangle
 rhombus
 parallelogram
+arrow
