@@ -1,1 +1,2 @@
 adding more to master and testing..
+now adding more to feature1 after merging
