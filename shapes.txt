@@ -4,3 +4,4 @@ rectangle
 square
 triangle
 rhombus
+parallelogram
